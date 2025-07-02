@@ -16,3 +16,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 
 
+### 🧑‍💻 Intern Profiles
+- **Minahil Umar**  
+  - Government College University, Lahore  
+  - Interested in: AI & Web Development  
+  - GitHub: [Minahil-Umar](https://github.com/Minahil-Umar)
